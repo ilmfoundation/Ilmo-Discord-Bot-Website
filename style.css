@@ -2,7 +2,7 @@
 html, body {
     height: 100%;
     width: 100%;
-    background: linear-gradient(90deg, #d5bfed 0,#c4caef 58%);
+    background: linear-gradient(90deg, #b188dd 0,#9ba7e8 58%);
    scroll-behavior: smooth;
      align-items: center;
   }
